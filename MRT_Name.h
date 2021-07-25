@@ -6,164 +6,164 @@ void MRT_Name(char color,int Number){
 	if(color=='b'){
 		switch(Number){
 			case 1:
-				printf("頂埔");
+				printf("Dingpu");
 			break;
 			case 2:
-				printf("永寧");
+				printf("Yongning");
 			break;
 			case 3:
-				printf("土城");
+				printf("Tucheng");
 			break;
 			case 4:
-				printf("海山");
+				printf("Haishan");
 			break;
 			case 5:
-				printf("亞東醫院");
+				printf("Far Eastern Hospital");
 			break;
 			case 6:
-				printf("府中");
+				printf("Fuzhong");
 			break;
 			case 7:
-				printf("板橋");
+				printf("Banqiao");
 			break;
 			case 8:
-				printf("新埔");
+				printf("Xinpu");
 			break;
 			case 9:
-				printf("江子翠");
+				printf("Jiangzicui");
 			break;
 			case 10:
-				printf("龍山寺");
+				printf("Longshan Temple");
 			break;
 			case 11:
-				printf("西門");
+				printf("Ximen");
 			break;
 			case 12:
-				printf("台北車站");
+				printf("Taipei Main Station");
 			break;
 			case 13:
-				printf("善導寺");
+				printf("Shandao Temple");
 			break;
 			case 14:
-				printf("忠孝新生");
+				printf("Zhonhxiao Xinsheng");
 			break;
 			case 15:
-				printf("忠孝復興");
+				printf("Zhonhxiao Fuxing");
 			break;	
 			case 16:
-				printf("忠孝敦化");
+				printf("Zhonhxiao Dunhua");
 			break;
 			case 17:
-				printf("國父紀念館");
+				printf("Sun Yat-sen Memorial Hall");
 			break;
 			case 18:
-				printf("市政府");
+				printf("Taipei City Hall");
 			break;
 			case 19:
-				printf("永春");
+				printf("Yongchun");
 			break;
 			case 20:
-				printf("後山埤");
+				printf("Houshanpi");
 			break;
 			case 21:
-				printf("昆陽");
+				printf("Kunyang");
 			break;
 			case 22:
-				printf("南港");
+				printf("Nangang");
 			break;
 			case 23:
-				printf("南港展覽館");
+				printf("Taipei Nangang Exhibition Center");
 			break;
 			default:
-				printf("找不到!!");
+				printf("Please only input the value in the list");
 			break;
 		}		
 	}
 	else if(color=='r'){
 		switch(Number){
 			case 1:
-				printf("淡水");
+				printf("Tamsui");
 			break;
 			case 2:
-				printf("紅樹林");
+				printf("Hongshulin");
 			break;
 			case 3:
-				printf("竹圍");
+				printf("Zhuwei");
 			break;
 			case 4:
-				printf("關渡");
+				printf("Guandu");
 			break;
 			case 5:
-				printf("忠義");
+				printf("Zhongyi");
 			break;
 			case 6:
-				printf("復興崗");
+				printf("Fuxinggang");
 			break;
 			case 7:
-				printf("北投");
+				printf("Beitou");
 			break;
 			case 8:
-				printf("奇岩");
+				printf("Qiyan");
 			break;
 			case 9:
-				printf("其哩岸");
+				printf("Qilian");
 			break;
 			case 10:
-				printf("石牌");
+				printf("Shipai");
 			break;
 			case 11:
-				printf("明德");
+				printf("Mingde");
 			break;
 			case 12:
-				printf("芝山");
+				printf("Zhishan");
 			break;
 			case 13:
-				printf("士林");
+				printf("Shilin");
 			break;
 			case 14:
-				printf("劍潭");
+				printf("Jiantan");
 			break;
 			case 15:
-				printf("圓山");
+				printf("Yuanshan");
 			break;	
 			case 16:
-				printf("民權西路");
+				printf("Minquan W.Rd.");
 			break;
 			case 17:
-				printf("雙連");
+				printf("Shuanglian");
 			break;
 			case 18:
-				printf("中山");
+				printf("Zhonhshan");
 			break;
 			case 19:
-				printf("台北車站");
+				printf("Taipei Main Station");
 			break;
 			case 20:
-				printf("臺大醫院");
+				printf("NTU Hospital");
 			break;
 			case 21:
-				printf("中正紀念堂");
+				printf("Chiang Kai-Shek Memorial Hall");
 			break;
 			case 22:
-				printf("東門");
+				printf("Dongmen");
 			break;
 			case 23:
-				printf("大安森林公園");
+				printf("Daan Park");
 			break;
 			case 24:
-				printf("大安");
+				printf("Daan");
 			break;
 			case 25:
-				printf("信義安和");
+				printf("Xinyi Anhe");
 			break;
 			case 26:
-				printf("台北101/世貿");
+				printf("Taipei 101/World Trade Center");
 			break;
 			case 27:
-				printf("象山");
+				printf("Xiangshan");
 			break;
 			default:
-				printf("找不到!!");
+				printf("Please only input the value in the list");
 			break;
 		}
 	} 
@@ -171,231 +171,231 @@ void MRT_Name(char color,int Number){
 		switch(Number){
 		
 			case 1:
-				printf("南勢角");
+				printf("Nanshijiao");
 			break;
 			case 2:
-				printf("景安");
+				printf("Jingan");
 			break;
 			case 3:
-				printf("永安市場");
+				printf("Yongan Market");
 			break;
 			case 4:
-				printf("頂溪");
+				printf("Dingxi");
 			break;
 			case 5:
-				printf("古亭");
+				printf("Guting");
 			break;
 			case 6:
-				printf("東門");
+				printf("Dongmen");
 			break;
 			case 7:
-				printf("忠孝新生");
+				printf("Zhonhxiao Xinsheng");
 			break;
 			case 8:
-				printf("松江南京");
+				printf("Songjiang Nanjing");
 			break;
 			case 9:
-				printf("行天宮");
+				printf("Xingtian Temple");
 			break;
 			case 10:
-				printf("中山國小");
+				printf("Zhonhshan Elementary School");
 			break;
 			case 11:
-				printf("民權西路");
+				printf("Minquan W.Rd.");
 			break;
 			case 12:
-				printf("大橋頭");
+				printf("Daquaotou");
 			break;
 			case 13:
-				printf("三重國小");
+				printf("Sanchong Elementary School");
 			break;
 			case 14:
-				printf("三和國中");
+				printf("Sanhe Junior High School");
 			break;
 			case 15:
-				printf("徐匯中學");
+				printf("St. Ignatius High School");
 			break;	
 			case 16:
-				printf("三民高中");
+				printf("Sanmin Senior High School");
 			break;
 			case 17:
-				printf("蘆洲");
+				printf("Luzhou");
 			break;
 			case 18:
-				printf("台北橋");
+				printf("Taipei Bridge");
 			break;
 			case 19:
-				printf("菜寮");
+				printf("Cailiao");
 			break;
 			case 20:
-				printf("三重");
+				printf("Sanchong");
 			break;
 			case 21:
-				printf("先嗇宮");
+				printf("Xianse Temple");
 			break;
 			case 22:
-				printf("頭前庄");
+				printf("Touqianzhung");
 			break;
 			case 23:
-				printf("新莊");
+				printf("Xinzhuang");
 			break;
 			case 24:
-				printf("輔大");
+				printf("Fu Jen University");
 			break;
 			case 25:
-				printf("丹鳳");
+				printf("Danfeng");
 			break;
 			case 26:
-				printf("迴籠");
+				printf("Huilong");
 			break;
 			default:
-				printf("找不到!!");
+				printf("Please only input the value in the list");
 			break;
 		}
 	}
 	else if(color=='w'){
 	  switch(Number){
 			case 1:
-				printf("動物園");
+				printf("Taipei Zoo");
 			break;
 			case 2:
-				printf("木柵");
+				printf("Muzha");
 			break;
 			case 3:
-				printf("萬芳社區");
+				printf("Wanfang Community");
 			break;
 			case 4:
-				printf("萬芳醫院");
+				printf("Wanfang Hospital");
 			break;
 			case 5:
-				printf("辛亥");
+				printf("Xinhai");
 			break;
 			case 6:
-				printf("麟光");
+				printf("Linguang");
 			break;
 			case 7:
-				printf("六張犁");
+				printf("Liuzhangli");
 			break;
 			case 8:
-				printf("科技大樓");
+				printf("Technology Builiding");
 			break;
 			case 9:
-				printf("大安");
+				printf("Daan");
 			break;
 			case 10:
-				printf("忠孝復興");
+				printf("Zhongxiao Fuxing");
 			break;
 			case 11:
-				printf("南京復興");
+				printf("Nanjing Fuxing");
 			break;
 			case 12:
-				printf("中山國中");
+				printf("Zhongshan Junior High School");
 			break;
 			case 13:
-				printf("松山機場");
+				printf("Shongshan Airport");
 			break;
 			case 14:
-				printf("大直");
+				printf("Dazhi");
 			break;
 			case 15:
-				printf("劍南路");
+				printf("Jiannan Rd.");
 			break;	
 			case 16:
-				printf("西湖");
+				printf("Xihu");
 			break;
 			case 17:
-				printf("港墘");
+				printf("Gangqian");
 			break;
 			case 18:
-				printf("文德");
+				printf("Wende");
 			break;
 			case 19:
-				printf("內湖");
+				printf("Neihu");
 			break;
 			case 20:
-				printf("大湖公園");
+				printf("Dahu Park");
 			break;
 			case 21:
-				printf("葫州");
+				printf("Huzhou");
 			break;
 			case 22:
-				printf("東湖");
+				printf("Donghu");
 			break;
 			case 23:
-				printf("南港軟體園區");
+				printf("Nangang Software Park");
 			break;
 			case 24:
-				printf("南港展覽區");
+				printf("Taipei Nangang Exhibition Center");
 			break;
 			default:
-				printf("找不到!!");
+				printf("Please only input the value in the list");
 			break;
 		}
 	}
 	else if(color=='g'){
 		switch(Number){
 		    case 1:
-				printf("松山");
+				printf("Songshan");
 			break;
 			case 2:
-				printf("南京三民");
+				printf("Nanjing Sanmin");
 			break;
 			case 3:
-				printf("台北小巨蛋");
+				printf("Taipei Arena");
 			break;
 			case 4:
-				printf("南京復興");
+				printf("Nanjing Fuxing");
 			break;
 			case 5:
-				printf("松江南京");
+				printf("Songjiang Nanjing");
 			break;
 			case 6:
-				printf("中山");
+				printf("Zohongshan");
 			break;
 			case 7:
-				printf("北門");
+				printf("Beimen");
 			break;
 			case 8:
-				printf("西門");
+				printf("Ximen");
 			break;
 			case 9:
-				printf("小南門");
+				printf("Xiaonamen");
 			break;
 			case 10:
-				printf("中正紀念堂");
+				printf("Chiang Kai-Shek Memorial Hall");
 			break;
 			case 11:
-				printf("古亭");
+				printf("Guting");
 			break;
 			case 12:
-				printf("台電大樓");
+				printf("Taipower Building");
 			break;
 			case 13:
-				printf("公館");
+				printf("Gongguan");
 			break;
 			case 14:
-				printf("萬隆");
+				printf("Wanlong");
 			break;
 			case 15:
-				printf("景美");
+				printf("Jingmei");
 			break;	
 			case 16:
-				printf("大坪林");
+				printf("Dapinglin");
 			break;
 			case 17:
-				printf("七張");
+				printf("Qizhang");
 			break;
 			case 18:
-				printf("新店區公所");
+				printf("Xindan District Office");
 			break;
 			case 19:
-				printf("新店");
+				printf("Xindian");
 			break;
 			case 20:
-				printf("小碧潭");
+				printf("Xiaobitan");
 			break;
 			default:
-				printf("找不到!!");
+				printf("Please only input the value in the list");
 			break;
 		}
 	}

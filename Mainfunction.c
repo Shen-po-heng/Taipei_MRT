@@ -31,52 +31,52 @@ int main(){
 	
 	
 	printf("MRT Map:\n");
-	printf("Blue_Line :1.頂埔 2.永寧 3.土城 4.海山 5.亞東醫院 6.府中 7.板橋 8.新埔 9.江子翠"); 
-	printf("10.龍山寺 11.西門 12.台北車站 13.善導寺 14.忠孝新生 15.忠孝復興 16.忠孝敦化"); 
-	printf("17.國父紀念館 18.市政府 19.永春 20.後山埤 21.昆陽 22.南港 23.南港展覽館\n");
+	printf("Blue_Line :1.Dingpu 2.Yongning 3.Tucheng 4.Haishan 5.Far Eastern Hospital 6.Fuzhong 7.Banqiao 8.Xinpu 9.Jiangzicui"); 
+	printf("10.Longshan Temple 11.Ximen 12.Taipei Main Station 13.Shandao Temple 14.Zhonhxiao Xinsheng 15.Zhonhxiao Fuxing 16.Zhonhxiao Dunhua"); 
+	printf("17.Sun Yat-sen Memorial Hall 18.Taipei City Hall 19.Yongchun 20.Houshanpi 21.Kunyang 22.Nangang 23.Taipei Nangang Exhibition Center\n");
 	printf("\n");
-	printf("Red_Line :1.淡水 2.紅樹林 3.竹圍 4.關渡 5.忠義 6.復興崗 7.北投 8.奇岩 9.唭哩岸");
-	printf("10.石牌 11.明德 12.芝山 13.士林 14.劍潭 15.圓山 16.民權西路 17.雙連 18中山");
-	printf("19.台北車站 20.台大醫院 21.中正紀念堂 22.東門 23.大安森林公園 24.大安 25.信義安和 26.台北101/世貿 27.象山 28.新北投\n");
+	printf("Red_Line :1.Tamsui 2.Hongshulin 3.Zhuwei 4.Guandu 5.Zhongyi 6.Fuxinggang 7.Beitou 8.Qiyan 9.Qilian");
+	printf("10.Shipai 11.Mingde 12.Zhishan 13.Shilin 14.Jiantan 15.Yuanshan 16.Minquan W.Rd. 17.Shuanglian 18.Zhonhshan");
+	printf("19.Taipei Main Station 20. NTU Hospital 21.Chiang Kai-Shek Memorial Hall 22.Dongmen 23.Dann Park 24.Daan 25.Xinyi Anhe 26.Taipei 101/World Trade Center 27.Xiangshan\n");
 	printf("\n");
-	printf("Green_Line : 1.松山 2.南京三民 3.台北小巨蛋 4.南京復興 5.松江南京 6.中山 7.北門 8.西門 9.小南門");
-	printf(" 10.中正紀念堂 11.古亭 12.台電大樓 13.公館 14.萬隆 15.景美 16.大坪林 17.七張");
-	printf("18.新店區公所 19.新店 20.小碧潭\n");
+	printf("Green_Line : 1.Songshan 2.Nanjing Sanmin 3.Taipei Arena 4.Nanjing Fuxing 5.Songjiang Nanjing 6.Zohongshan 7.Beimen 8. Ximen  9.Xiaonamen");
+	printf(" 10.Chiang Kai-Shek Memorial Hall 11.Guting 12.Taipower Building 13.Gongguan 14.Wanlong 15.Jingmei 16.Dapinglin 17.Qizhang");
+	printf("18.Xindan District Office 19.Xindian 20.Xiaobitan \n");
 	printf("\n");
-	printf("Wenhu_Line :1.動物園 2.木柵 3.萬芳社區 4.萬芳醫院 5.辛亥 6.麟光 7.六張犁 8.科技大樓 9.大安");
-	printf("10.忠孝復興 11.南京復興 12.中山國中 13.松山機場 14.大直 15.劍南路 16.西湖 17.港墘");
-	printf("18.文德 19.內湖 20.大湖公園 21.葫洲 22.東湖 23.南港軟體園區 24.南港\n"); 
+	printf("Wenhu_Line :1.Taipei Zoo 2.Muzha 3.Wanfang Community 4.Wanfang Hospital 5.Xinhai 6.Linguang 7.Liuzhangli 8.Technology Builiding 9.Daan");
+	printf("10.Zhongxiao Fuxing 11.Nanjing Fuxing 12.Zhongshan Junior High School 13.Shongshan Airport 14.Dazhi 15.Jiannan Rd. 16.Xihu 17.Gangqian");
+	printf("18.Wende 19.Neihu 20.Dahu Park 21.Huzhou 22.Donghu 23.Nangang Software Park 24.Taipei Nangang Exhibition Center \n"); 
 	printf("\n");
-	printf("Yellow_Line :1.南勢角 2.景安 3.永安市場 4.頂溪 5.古亭 6.東門 7.忠孝新生 8.松江南京 9.行天宮");
-	printf("10.中山國小 11.民權西路 12.大橋頭 13.三重國小 14.三和國中 15.徐匯中學 16.三民高中 17.蘆洲");
-	printf("18.台北橋 19.菜寮 20.三重 21.先嗇宮 22.頭前庄 22.新莊 24.輔大 25.丹鳳 26.迴龍\n\n"); 
+	printf("Yellow_Line :1.Nanshijiao 2.Jingan 3.Yongan Market4.Dingxi 5. Guting 6. Dongmen 7.Zhonhxiao Xinsheng 8.Songjiang Nanjing 9.Xingtian Temple");
+	printf("10.Zhonhshan Elementary School 11.Minquan W.Rd. 12.Daquaotou 13.Sanchong Elementary School 14.Sanhe Junior High School 15. St. Ignatius High School 16.Sanmin Senior High School 17.Luzhou");
+	printf("18.Taipei Bridge 19.Cailiao 20.Sanchong 21.Xianse Temple 22.Touqianzhung 22.Xinzhuang 24.Fu Jen University 25.Danfeng 26Huilong\n\n"); 
 	MRT_Graph();
 	
 	//User input
-	printf("請輸入起程站:\n");
-	printf("哪一線(顏色:Wenhu Line-> 'w',Red_Line->'r',Blue_Line->'b',Green_Line->'g',Yellow_Line->'y'):") ;
+	printf("Please input which is your beginning stop:\n");
+	printf("Which line( Color :Wenhu Line-> 'w',Red_Line->'r',Blue_Line->'b',Green_Line->'g',Yellow_Line->'y'):") ;
 	fflush(stdin);
 	scanf("%c",&Begin_Stop->stop_color);
-	printf("哪一站(站的號碼如上):");
+	printf("Which stop? (Input stop number)");
 	scanf("%d",&Begin_Stop->stop_num);
-	printf("\n請輸入終點站:\n");
-	printf("哪一線(顏色:Wenhu Line-> 'w',Red_Line->'r',Blue_Line->'b',Green_Line->'g',Yellow_Line->'y'):") ;
+	printf("\nPlease input which is your terminal stop:\n");
+	printf("Which line( Color :Wenhu Line-> 'w',Red_Line->'r',Blue_Line->'b',Green_Line->'g',Yellow_Line->'y'):") ;
 	fflush(stdin);
 	scanf("%c",&Destination_Stop->stop_color);
-	printf("哪一站(站的號碼如上):");
+	printf("Which stop? (Input stop number)");
 	scanf("%d",&Destination_Stop->stop_num);
 	
 	//let *List_Begin 
 	List_Begin=Look_for_Begin(Begin_Stop->stop_color,Begin_Stop->stop_num);
-	printf("\n起程站:顏色 %c 站號%d",List_Begin->stop_color,List_Begin->stop_num );
-	printf("\t站名:");
+	printf("\nBeginning stop:color %c /t stop number %d",List_Begin->stop_color,List_Begin->stop_num );
+	printf("\t Stop name:");
 	MRT_Name(List_Begin->stop_color,List_Begin->stop_num);
 	List_End=Look_for_Begin(Destination_Stop->stop_color,Destination_Stop->stop_num);
-	printf("\n終點站:顏色 %c 站號%d",List_End->stop_color,List_End->stop_num );
-	printf("\t站名:");
+	printf("\nTerminal stop:color %c /t stop number %d",List_End->stop_color,List_End->stop_num );
+	printf("\t Stopname:");
 	MRT_Name(List_End->stop_color,List_End->stop_num);
 	printf("\n");
-	//搭車資訊
+	//Transfer info
 	MRT_Path(List_Begin,List_End);	
 	return 0;
 }
@@ -1451,7 +1451,7 @@ Node* Look_for_Begin(char color,int number){
 			}
 		break;
 		default:
-			printf("找不到輸入站名!!,請重新操作一次");
+			printf("Inpur is wrong, please do it again");
 		break;
 	}
 	return pt;
@@ -1466,7 +1466,7 @@ void MRT_Path(Node* List_Begin,Node* List_End){
 		Path_diff_Color(List_Begin, List_End);
 	printf("\ndistance:%4.2f",total_distance);
 	total_cost=price(total_distance);
-	printf("\n普通票:%4.0f 元\t 悠遊卡:%4.0f 元",total_cost,total_cost*0.8);
+	printf("\nNormal card:%4.0f 元\t Easy card:%4.0f 元",total_cost,total_cost*0.8);
 	Time(total_time);
 	return;
 };
@@ -2637,11 +2637,11 @@ void Time(int time){
 	int Sec=time-Hour*3600-60*Min;
 	
 	if(time>=3600)
-		printf("\n\n花費時間:%d hr %d min %d s",Hour,Min,Sec);
+		printf("\n\nTotal time:%d hr %d min %d s",Hour,Min,Sec);
 	else if(time<3600 && time>=60)
-		printf("\n\n花費時間: %d min %d s",Min,Sec);
+		printf("\n\nTotal time: %d min %d s",Min,Sec);
 	if(time<60)
-		printf("\n\n花費時間: %d s",Sec);
+		printf("\n\nTotal time: %d s",Sec);
 }
 
 
